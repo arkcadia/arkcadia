@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sudoku solver<br>🌱 I’m currently learning C & Rust<br>⚡ Fun fact: the firefox logo isn't a fox
+🔭 I’m currently working on a sudoku solver<br>🌱 I’m currently learning C & Rust<br>⚡ Fun fact: the firefox logo isn't a fox
 
 
 # 💻 Tech Stack:
