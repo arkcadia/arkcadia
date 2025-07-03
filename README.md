@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<p align="left">Currently working on an Intel 8080 CPU emulator on rust</p>
+<p align="left">Currently working on an elf parser on rust</p>
 
 ###
 
