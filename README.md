@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Discord: arkcadia.**
 
-- 📄 Know about my experiences [4 month internship as a soft dev in the military](4 month internship as a soft dev in the military)
+- 📄 Know about my experiences **4 month internship as a soft dev in the military**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
