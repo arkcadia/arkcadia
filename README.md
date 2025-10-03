@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C++ / rust**
 
-- 🗑️ I hate [All frontend / web dev](All frontend / web dev)
+- 🗑️ I hate **All frontend / web dev**
 
 - 📫 How to reach me **Discord: arkcadia.**
 
