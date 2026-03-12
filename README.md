@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkcadia" alt="arkcadia" /></a> </p>
 
-- 🔭 I’m currently working on **Chip 8 emulator**
+- 🔭 I’m currently working on **..**
 
-- 🌱 I’m currently learning **C++ / rust**
+- 🌱 I’m currently learning **C++**
 
 - 🗑️ I hate **All frontend / web dev**
 
-- 📫 How to reach me **Discord: arkcadia.**
+- 📫 How to reach me **mail: lipsum874.gmail.com**
 
-- 📄 Know about my experiences **4 month internship as a soft dev in the military**
+- 📄 My experiences **4 month internship as a software dev at Spherea **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
