@@ -132,8 +132,8 @@ Worked on **C++ tooling for parsing, restructuring and validating heterogeneous 
 ## 📊 GitHub Telemetry
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arkcadia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00FF87" alt="GitHub stats" />
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arkcadia&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=7F00FF&icon_color=00E5FF&text_color=C9D1D9&ring_color=00FF87" alt="GitHub stats" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkcadia&layout=compact&hide_border=true&bg_color=0D1117&title_color=7F00FF&text_color=C9D1D9" alt="Top languages" />
 
 <br/><br/>
