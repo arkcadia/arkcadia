@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D4FF,100:00FF87&height=230&section=header&text=ARCKADIA%20&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Low-Level%20Software%20%E2%80%A2%20Systems%20%E2%80%A2%20AI%20Inference&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D4FF,100:00FF87&height=230&section=header&text=ARKCADIA%20&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Low-Level%20Software%20%E2%80%A2%20Systems%20%E2%80%A2%20AI%20Inference&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+software+close+to+the+metal;C+%7C+C%2B%2B+%7C+Python+%7C+Linux;Networking+%E2%80%A2+Systems+%E2%80%A2+AI+Inference;Turning+coffee+into+segfaults+since+2023" alt="Typing SVG" />
