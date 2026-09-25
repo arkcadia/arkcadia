@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D4FF,100:00FF87&height=230&section=header&text=VALENTIN%20BORT-ESGUEVA&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Low-Level%20Software%20%E2%80%A2%20Systems%20%E2%80%A2%20AI%20Inference&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00D4FF,100:00FF87&height=230&section=header&text=ARCKADIA%20&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=Low-Level%20Software%20%E2%80%A2%20Systems%20%E2%80%A2%20AI%20Inference&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+software+close+to+the+metal;C+%7C+C%2B%2B+%7C+Rust+%7C+Linux;Networking+%E2%80%A2+Systems+%E2%80%A2+AI+Inference;Turning+coffee+into+segfaults+since+2023" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=900&lines=Building+software+close+to+the+metal;C+%7C+C%2B%2B+%7C+Python+%7C+Linux;Networking+%E2%80%A2+Systems+%E2%80%A2+AI+Inference;Turning+coffee+into+segfaults+since+2023" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,8 +26,7 @@ Name      : Valentin Bort-Esgueva
 Role      : Computer Science student @ Epitech Toulouse
 Focus     : Low-level software • Systems programming • Networking
 Exploring : Local LLM inference • AI systems • Performance
-Stack     : C • C++ • Rust • Python • Linux
-Status    : Probably debugging a pointer
+Stack     : C • C++ • Python • Linux
 ```
 
 I like understanding what happens **under the abstraction layer**: memory, processes, networking, parsers, runtimes, performance and the pieces that make software actually run.
@@ -39,7 +38,6 @@ I like understanding what happens **under the abstraction layer**: memory, proce
 - 🛰️ Strong interest in **aerospace, complex systems and industrial software**
 - 🎓 Third-year student at **Epitech Toulouse**
 - 💼 Completed a **4-month software development internship at SPHEREA**
-- ⚡ Fun fact: I would rather debug a segfault than center a `<div>`
 
 ---
 
@@ -49,7 +47,7 @@ I like understanding what happens **under the abstraction layer**: memory, proce
 
 ### Core
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,linux&theme=dark" alt="Core skills" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux&theme=dark" alt="Core skills" />
 
 ### Tools & Environment
 
@@ -63,7 +61,6 @@ I like understanding what happens **under the abstraction layer**: memory, proce
 
 <img src="https://img.shields.io/badge/C-Low--Level-7F00FF?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-Systems-00B8D9?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-Learning-FF6B35?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-Daily%20Driver-00FF87?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/AI-Inference-7F00FF?style=for-the-badge&logo=openai&logoColor=white" />
 
@@ -113,22 +110,6 @@ A long-term team project exploring what happens between a trained model and the 
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Zappy
-
-A multiplayer network game architecture built around a **C server**, **C++ graphical client** and autonomous clients communicating over TCP/IP.
-
-**Topics**
-- POSIX sockets
-- `poll`
-- Client/server architecture
-- Application protocols
-- Real-time state synchronization
-
-<img src="https://img.shields.io/badge/C-NETWORKING-00B8D9?style=for-the-badge&logo=c&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
 ### 🛰️ SPHEREA — Internship
 
 Worked on **C++ tooling for parsing, restructuring and validating heterogeneous exported data** in an industrial software environment.
@@ -167,17 +148,18 @@ Worked on **C++ tooling for parsing, restructuring and validating heterogeneous 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arkcadia&bg_color=0D1117&color=00E5FF&line=7F00FF&point=00FF87&area=true&area_color=7F00FF&hide_border=true" width="100%" alt="Contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkcadia&theme=tokyonight" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
 ---
 
-## 🏆 Trophies
+## ⚡ Developer Snapshot
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=arkcadia&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub trophies" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arkcadia&theme=tokyonight" alt="GitHub profile stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkcadia&theme=tokyonight&utcOffset=2" alt="GitHub productive time" />
 
 </div>
 
@@ -211,6 +193,9 @@ struct CurrentFocus {
 
 <a href="https://github.com/arkcadia">
   <img src="https://img.shields.io/badge/GitHub-ARKCADIA-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://fr.linkedin.com/in/valentin-bort-esgueva">
+  <img src="https://img.shields.io/badge/LinkedIn-VALENTIN%20BORT--ESGUEVA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
